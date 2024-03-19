@@ -1,15 +1,19 @@
 ### Hi there :)
 
-#🙋 I'm James Cook, a Software Engineer specialising in **Front End and Full Stack Web Development**. I am currently working as a freelance developer, but I would love the opportunity to work on something bigger!
+# 🙋 I'm James Cook, a Software Engineer specialising in **Front End and Full Stack Web Development**. I am currently working as a freelance developer, but I would love the opportunity to work on something bigger!
 
-##⚡About Me
+## ⚡About Me
 
 🎓 I am a graduate of BrainStation's London Bootcamp, where I honed my skills in modern web development technologies. I also have a degree in English Literature, meaning I am able to bring strong communication and problem-solving skills to my work, enabling me to collaborate effectively with cross-functional teams and deliver high-quality solutions.
 
 💻 I have loved my journey as a Software Enigineer so far, learning many different technologies:
+
 **Front-end:** HTML, CSS, JavaScript, React, Next.js, Tailwind
+
 **Back-end:** Node.js, Express, SQL
+
 **Tools & Technologies:** Git, GitHub, RESTful APIs
+
 **Other Skills:** Agile Development, UI/UX Design Principles, CyberSecurity Principles
 
 📖 Since the start of 2024, I have also been learning all about **TypeScript and Figma** for a freelance project that I'm working on. I always aim to be learning something new, whether that's new technologies, or deepening the understanding I have of my existing skillset.
