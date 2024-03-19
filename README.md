@@ -1,6 +1,6 @@
 ## Hi there :)
 
-### 🙋 I'm James Cook, a Software Engineer specialising in **Front End and Full Stack Web Development**. I am currently working as a freelance developer, but I would love the opportunity to work on something bigger!
+🙋 I'm James Cook, a Software Engineer specialising in **Front End and Full Stack Web Development**. I am currently working as a freelance developer, but I would love the opportunity to work on something bigger!
 
 ## ⚡About Me
 
